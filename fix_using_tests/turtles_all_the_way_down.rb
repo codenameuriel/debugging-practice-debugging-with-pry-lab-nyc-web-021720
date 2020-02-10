@@ -16,4 +16,3 @@ def turtle_traits(turtles)
   end
 end
 
-p 
